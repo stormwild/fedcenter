@@ -1,0 +1,21 @@
+{
+  "name": "FEdCenter",
+  "type": "wordpress-theme",
+  "license": "MIT",
+  "description": "FEdCenter custom WordPress Theme based on Roots Sage",
+  "homepage": "https://github.com/stormwild/fedcenter/",
+  "authors": [
+    {
+      "name": "Alexander R. Torrijos",
+      "email": "artorrijos@gmail.com",
+      "homepage": "http://stormwild.github.io/"
+    }
+  ],
+  "keywords": [
+    "wordpress"
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "composer/installers": "~1.0"
+  }
+}
